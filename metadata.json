@@ -1,0 +1,5 @@
+{
+  "name": "Gian divisor cumpleañitos",
+  "description": "Una aplicación simple para dividir los gastos de un grupo en un bar o restaurante, ideal para cumpleaños. Permite crear grupos de consumo compartido, añadir gastos individuales y generar un resumen para compartir.",
+  "requestFramePermissions": []
+}
